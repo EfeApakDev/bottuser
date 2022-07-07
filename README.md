@@ -1,0 +1,2 @@
+# bottuser
+bot ama user
